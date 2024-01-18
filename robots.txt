@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ffrey.github.io/sitemap.xml
