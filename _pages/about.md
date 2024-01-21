@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a theoretical physicist by training and I work primarily in the area of biophysics and soft matter. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently I am an independent <a href="https://nomisfoundation.ch/people/felix-frey/">NOMIS Fellow</a> at <a href="https://ist.ac.at/home">IST Austria</a> in Klosterneuburg where I work together with <a href="https://andelasaric.com">Anđela Šarić</a> and <a href="https://looselab.ist.ac.at">Martin Loose</a>. Previously, I was a Postdoctoral fellow at the <a href="https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/">Department of Bionanoscience</a> of <a href="https://www.tudelft.nl/en/">Delft University of Technology</a> with <a href="https://idemalab.tudelft.nl">Timon Idema</a>,  partially funded by an independently raised Kavli Synergy Granty at the <a href="https://www.kavlifoundation.org/institutes/kavli-institute-of-nanoscience-delft/">Kavli Institute of Nanoscience Delft</a>. In 2019 I completed my PhD at the <a href="https://www.thphys.uni-heidelberg.de/index.php?lang=e">Institute for Theoretical Physics</a> at <a href="https://www.uni-heidelberg.de/en">Heidelberg University</a>  in the group of <a href="https://www.thphys.uni-heidelberg.de/~biophys/">Ulrich Schwarz</a> supported by a scholarship from the <a href="https://hgsfp.physi.uni-heidelberg.de">Heidelberg Graduate School of Fundamental Physics</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Complementary to having been trained in continuum modeling, I am making a transition to particle-based mesoscale computer simulations in my current postdoc which allows me to bridge scales. In my work, I study self-assembly and remodeling processes at biomembranes to develop a system-level understanding of living systems. 
+To learn more about my research, you can navigate to the publications page, my profle on my <a href="https://orcid.org/0000-0001-8501-6017">ORCID</a>, my <a href="https://scholar.google.com/citations?hl=en&user=9FjanV0AAAAJ">Google Scholar profile</a> or follow me on <a href="https://twitter.com/sciFelixFrey">X (twitter)</a>.
