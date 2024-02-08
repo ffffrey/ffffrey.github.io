@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Talk at the symposium 'Septins: biology meets physics' at TU Delft
+I gave a talk at the symposium 'Septins: biology meets physics' at TU Delft
