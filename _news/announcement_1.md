@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-01 15:59:00-0400
+date: 2024-09-23 12:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I gave a talk at the symposium 'Septins: biology meets physics' at TU Delft
+I gave a talk at the <a href="https://dgfb2024.de">German Biophysical Society Meeting in Leipzig </a> on 'Decoding design principles - membrane remodeling across the tree of life'. See my <a href="https://dgfb2024.de/scientific-program/">abstract</a>.
