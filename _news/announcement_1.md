@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-23 12:59:00-0400
+date: 2024-12-10 12:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I gave a talk at the <a href="https://dgfb2024.de">German Biophysical Society Meeting in Leipzig </a> on 'Decoding design principles - membrane remodeling across the tree of life'. See my <a href="https://dgfb2024.de/scientific-program/">abstract</a>.
+Our manuscript <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.064403">'Coat stiffening can explain invagination of clathrin-coated membranes'</a>, is now published in Physical Review E see the <a href="https://ffffrey.github.io/publications/"> publications page</a>.

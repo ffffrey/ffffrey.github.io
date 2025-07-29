@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-10-24 12:59:00-0400
+date: 2025-07-28 12:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I gave a talk at the <a href="https://voices.uchicago.edu/visualizing-membrane-protein-interactions/">International Symposium on Membrane/Protein Interactions</a> at the University of Chicago International Institute for Research in Paris (UC-IIRP).
+Our tutorial review on 'A tutorial for mesoscale computer simulations of lipid membranes: tether pulling, tubulation and fluctuations', is now published in Soft Matter, see the <a href="https://ffffrey.github.io/publications/"> publications page</a>.
 

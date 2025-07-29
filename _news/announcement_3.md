@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-10-23 12:59:00-0400
+date: 2025-03-19 12:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper on <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2409407121">'Endosomal membrane budding patterns in plants'</a>, is now published in PNAS, see the <a href="https://ffffrey.github.io/publications/"> publications page</a>.
+I gave a talk at the <a href="https://regensburg25.dpg-tagungen.de">DPG Spring Meeting in Regensburg </a> on 'Modeling endosomal membrane budding patterns'. See my <a href="https://www.dpg-verhandlungen.de/year/2025/conference/regensburg/part/bp/session/19/contribution/7">abstract</a>.
 
