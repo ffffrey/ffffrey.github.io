@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-11-21 12:59:00-0400
+date: 2026-03-11 12:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I presented a poster at the <a href="https://vsmd.org">Vienna Soft Matter Day </a>at BOKU on 'Modeling endosomal membrane budding patterns'.
+I will give a talk at the <a href="https://dresden26.dpg-tagungen.de">DPG Spring Meeting in Dresden </a> on 'Modeling endosomal membrane budding patterns'. See my <a href="Membrane reshaping across the tree of life">abstract</a>.
 
