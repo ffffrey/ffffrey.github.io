@@ -3,17 +3,25 @@ layout: page
 title: research
 permalink: /research/
 description: 
-nav: false
-nav_order: 3
-display_categories: [Membrane remodelling accross the tree of life, Self-assembly and dynamics of membrane-coat composites, Membrane-cytoskeletal interactions, Virus and nanoparticle uptake]
+nav: true
+nav_order: 1
+#display_categories: []
 horizontal: false
 ---
 
-<!-- pages/research.md -->
-<div class="research">
-{% if site.enable_project_categories and page.display_categories %}
+In my research, I am broadly interested in theoretical biophysics and soft matter. 
+Currently, my main focus is on the physics of fluid lipid membranes, with a focus on how geometry, mechanics, and self-assembly drive shape and topology changes in these soft biological interfaces. 
+Using a combination of <strong>theoretical modeling and computer simulations</strong>, I study <strong>membrane remodeling</strong> across a range of biological systems.
+ These include archaeal bolalipid membranes, endosomal membrane dynamics in plant cells, and processes of membrane turnover and growth. 
+ Another central theme of my work is how proteins <strong>self-assemble</strong> into functional coats that generate forces and curvature, for example during <strong>clathrin-mediated endocytosis</strong>. 
+ I also explore membrane interactions with <strong>viruses, nanoparticles, and cytoskeletal networks</strong>, addressing general physical principles that govern transport, remodeling, and organization in living matter. 
+ Further details on these topics are provided below.
+
+<!-- pages/projects.md -->
+<div class="projects">
+<!-- {% if site.enable_project_categories and page.display_categories %} -->
   <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
+  <!--{% for category in page.display_categories %}-->
   <h2 class="category">{{ category }}</h2>
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
