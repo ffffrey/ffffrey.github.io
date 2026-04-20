@@ -9,7 +9,7 @@ related_publications: true
 
 Biological cells are enclosed by lipid membranes that must be both sturdy and flexible – to contain the cellular interior and allow membrane reshaping during various cellular processes – such as cell division or endocytosis (the incorporation of cargo into cells). 
 Across nature, different membrane designs have evolved to resolve these partially conflicting requirements. 
-I combined computer simulations and continuum theory to investigate membrane remodeling in archaeal membranes {% cite amaral2025stability %}, plant membranes, in collaboration with the <a href="https://otegui.cellimaging.wisc.edu">Otegui lab (University of Wisconsin-Madison)</a> {% cite weiner2024endosomal %}, and membrane turnover in bio-mimetic systems {% cite frey_membrane_2022 %}. 
+I combined computer simulations and continuum theory to investigate membrane remodeling in archaeal membranes {% cite Frey2026 %} and {% cite amaral2025stability %}, plant membranes, in collaboration with the <a href="https://otegui.cellimaging.wisc.edu">Otegui lab (University of Wisconsin-Madison)</a> {% cite weiner2024endosomal %}, and membrane turnover in bio-mimetic systems {% cite frey_membrane_2022 %}. 
 I also co-authored a literature review on modeling membrane reshaping {% cite frey_more_2021 %} and a tutorial review on mesoscale computer simulations for lipid membranes {% cite Basagoiti2025 %}. 
 
 

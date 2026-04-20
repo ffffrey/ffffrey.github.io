@@ -17,9 +17,11 @@ All our projects are related to <strong>Theoretical Biophysics</strong>, using m
 Depending on the specific project, experience with stochastic dynamics, nonlinear dynamics, and coarse-grained molecular dynamics simulations can be a plus.
 We offer excellent working conditions on the vibrant campus of TU/e in Eindhoven, at the heart of the Brainport region, dedicated mentoring and supervision, and many opportunities to learn and grow.
 
+<!--
 A <strong>PhD student position</strong> in my group in the
 <a href="https://www.tue.nl/en/our-university/departments/applied-physics-and-science-education">Department of Applied Physics and Science Education</a> at
 <a href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a>
 will be available in <strong>September 2026</strong>. Please see the <a href="https://www.tue.nl/en/working-at-tue/vacancy-overview/phd-in-theoretical-and-computational-biophysics?_gl=1*10ffvrk*_up*MQ..*_ga*OTIzMjYzMzg2LjE3NzE4NzQxMDA.*_ga_JN37M497TT*czE3NzE4NzQwOTkkbzEkZzEkdDE3NzE4NzQxMTAkajQ5JGwwJGgw">job advertisement</a> for further details.
+-->
 
-Interested in doing a <strong>postdoc</strong> with us? Although we currently have no open positions, we strongly encourage prospective candidates to consider applying for external funding (e.g. a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2026">Marie Curie fellowship</a>) together with us. Feel free to contact <strong>Felix Frey (f.f.f.frey1 [at] tue [dot] nl)</strong> for more details.
+Interested in doing a <strong>PhD</strong> or <strong>postdoc</strong> with us? Although we currently have no open positions, we encourage prospective candidates to consider applying for external funding (e.g. a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2026">Marie Curie fellowship (for postdocs)</a>) together with us. Feel free to contact <strong>Felix Frey (f.f.f.frey1 [at] tue [dot] nl)</strong> for more details.
