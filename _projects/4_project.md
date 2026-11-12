@@ -7,8 +7,8 @@ importance: 4
 related_publications: true
 ---
 
-Membrane reshaping is often driven by cytoskeletal filament networks. In collaboration with the <a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/bionanoscience/research/research-labs/koenderink-lab">Koenderink lab (TU Delft)</a>, I investigated the shapes of lipid vesicles containing actin filaments {% cite baldauf_branched_2023 %} and the initiation of actin-driven membrane protrusions {% cite baldauf_biomimetic_2023 %}. 
-I also contributed to a systematic review with the <a href="https://www.erasmusmc.nl/en/cancer-institute/research/groups/hematology-biochemistry-of-haemostasis-and-thrombosis-research-group#06202457-a66a-40d4-9510-424460036406">de Maat lab (University Medical Center Rotterdam)</a> by developing filament network simulations to benchmark image analysis software {% cite de_vries_systematic_2022 %}.
+Membrane reshaping is often driven by cytoskeletal filament networks. In collaboration with the <a href="https://www.tudelft.nl/tnw/over-faculteit/afdelingen/bionanoscience/research/research-labs/koenderink-lab">Koenderink lab (TU Delft)</a>, we investigated the shapes of lipid vesicles containing actin filaments {% cite baldauf_branched_2023 %} and the initiation of actin-driven membrane protrusions {% cite baldauf_biomimetic_2023 %}. 
+We also contributed to a systematic review with the <a href="https://www.erasmusmc.nl/en/cancer-institute/research/groups/hematology-biochemistry-of-haemostasis-and-thrombosis-research-group#06202457-a66a-40d4-9510-424460036406">de Maat lab (University Medical Center Rotterdam)</a> by developing filament network simulations to benchmark image analysis software {% cite de_vries_systematic_2022 %}.
 
 
 

@@ -4,7 +4,7 @@ title: contact
 permalink: /contact/
 description: 
 nav: true
-nav_order: 5
+nav_order: 6
 #display_categories: []
 horizontal: false
 ---
@@ -22,5 +22,8 @@ P.O. Box 513 <br>
 5600 MB Eindhoven <br>
 Netherlands <br>
 <br>
-<strong> Email: f.f.f.frey1 [at] tue [dot] nl </strong> 
-
+<a href="https://www.researchgate.net/profile/Felix-Frey-7?ev=hdr_xprf">Research Gate</a>
+<br>
+<a href="https://bsky.app/profile/felix-frey.bsky.social">Bluesky</a>
+<br>
+<strong> Email:</strong>  f.f.f.frey1 [at] tue [dot] nl 

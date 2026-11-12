@@ -1,10 +1,10 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: group
 description: 
-nav: false
-nav_order: 7
+nav: true
+nav_order: 1
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -13,6 +13,22 @@ profiles:
     image: prof_pic.jpg
     content: felix_frey.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>felix_frey.md>
+    more_info: 
+      <p>
+
+  - align: right
+    image: 
+    content: PHD_students.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+      <p>
+
+  - align: right
+    image: 
+    content: MSC_students.md
+    image_circular: false # crops the image to make it circular
+    more_info: 
+      <p>
 ---
+
+

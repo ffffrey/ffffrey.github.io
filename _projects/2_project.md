@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 An important example of protein self-assembly in cells is clathrin-mediated endocytosis (CME), in which a protein lattice composed of clathrin molecules self-assembles on the cytosolic side of the cell membrane and subsequently invaginates together with the membrane.
-I developed analytical and computational models to study the self-assembly of flat clathrin-lattices {% cite frey_eden_2020 %}, the invagination of the composite of clathrin lattice and lipid membrane {% cite frey_competing_2020 %}, {% cite frey2024 %}, and collaborated on this topic with the <a href="https://rieslab.de">Ries lab (Max Perutz Labs, University of Vienna)</a> {% cite mund_clathrin_2023 %} and the <a href="https://www.boulantlab.com">Boulant lab (University of Florida)</a> {% cite bucher_clathrin-adaptor_2018 %}.
+We developed analytical and computational models to study the self-assembly of flat clathrin-lattices {% cite frey_eden_2020 %}, the invagination of the composite of clathrin lattice and lipid membrane {% cite frey_competing_2020 %}, {% cite frey2024 %}, and collaborated on this topic with the <a href="https://rieslab.de">Ries lab (Max Perutz Labs, University of Vienna)</a> {% cite mund_clathrin_2023 %} and the <a href="https://www.boulantlab.com">Boulant lab (University of Florida)</a> {% cite bucher_clathrin-adaptor_2018 %}.
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">

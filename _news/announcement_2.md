@@ -1,12 +1,24 @@
 ---
 layout: post
+date: 2026-08-19 12:59:00-0400
+inline: true
+related_posts: false
+---
+
+Felix lectured on Membrane Biophysics at the summer school of the Institute for Theoretical Physics at Utrecht University.
+
+
+
+<!-- 
+---
+layout: post
 date: 2026-04-21 12:59:00-0400
 inline: true
 related_posts: false
 ---
 
 In Q4 2026, I will contribute to teaching <a href="https://tue.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=32SPH&collegejaar=2025&taal=en">Statistical Physics</a> as an instructor at TU/e.
-
+-->
 
 
 

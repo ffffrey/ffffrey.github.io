@@ -8,7 +8,7 @@ related_publications: true
 ---
 
 Many viruses enter cells via endocytosis. 
-I contributed to understanding virus particle uptake by developing a continuum model that explores how virus shape affects uptake times {% cite frey_dynamics_2019 %} and incorporates stochasticity {% cite frey2019a %}. 
+We contributed to understanding virus particle uptake by developing a continuum model that explores how virus shape affects uptake times {% cite frey_dynamics_2019 %} and incorporates stochasticity {% cite frey2019a %}. 
 This work included a collaborative study with the <a href="https://www.mr.mpg.de/13943515/cellular_biophysics">Spatz lab (MPI for Medical Research Heidelberg)</a> {% cite wiegand_forces_2020 %} and a literature review on modeling virus replication and spread {% cite kumberger_multiscale_2016 %}.
 
 
